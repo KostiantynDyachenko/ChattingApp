@@ -14,5 +14,6 @@ By the end of this video, you will have a strong understanding of how to send an
 ## Stay up to date with new projects
 New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
+
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
